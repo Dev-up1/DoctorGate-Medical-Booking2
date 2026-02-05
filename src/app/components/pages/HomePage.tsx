@@ -6,8 +6,7 @@ import { Shield, Users, Award, Calendar, Star, CheckCircle2, ChevronRight, Chevr
 import { useState } from 'react';
 import { Button } from '@/app/components/ui/button';
 import { Badge } from '@/app/components/ui/badge';
-// لا تحتاج لعمل import في الأعلى
-const heroImage = "/4009640b3787a30ed68fac2c0da543aac2cdda75.png";
+const heroImage = "/ea6fb82e-0acc-4e36-a2cc-f02f30626984.png";
 
 interface HomePageProps {
   onNavigate: (page: string, data?: any) => void;
