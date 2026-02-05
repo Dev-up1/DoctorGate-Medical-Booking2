@@ -1,5 +1,5 @@
 {
-  "name": "doctorgate-medical-booking2",
+  "name": "doctorgate",
   "compatibility_date": "2026-02-05",
   "assets": {
     "directory": "./dist"
