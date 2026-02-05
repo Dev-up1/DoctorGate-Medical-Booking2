@@ -6,7 +6,7 @@ import { Shield, Users, Award, Calendar, Star, CheckCircle2, ChevronRight, Chevr
 import { useState } from 'react';
 import { Button } from '@/app/components/ui/button';
 import { Badge } from '@/app/components/ui/badge';
-import heroImage from '../../assets/hero-image.png';
+import heroImage from '../../assets/4009640b3787a30ed68fac2c0da543aac2cdda75.png';
 
 interface HomePageProps {
   onNavigate: (page: string, data?: any) => void;
